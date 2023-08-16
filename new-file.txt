@@ -1,3 +1,4 @@
 Hello --Init file 0 - update - hot-fix-1
 Updated by master
 updated by hot-fix
+updated by hot-fix-2
